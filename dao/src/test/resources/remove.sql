@@ -1,0 +1,1 @@
+DROP TABLE message, `group`, application, relations, phone, account;

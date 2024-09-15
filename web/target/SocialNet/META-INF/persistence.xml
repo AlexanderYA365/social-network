@@ -1,0 +1,10 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+    <persistence-unit name="default">
+        <class>com.getjavajob.training.yakovleva.common.Account</class>
+        <class>com.getjavajob.training.yakovleva.common.Application</class>
+        <class>com.getjavajob.training.yakovleva.common.Group</class>
+        <class>com.getjavajob.training.yakovleva.common.Message</class>
+        <class>com.getjavajob.training.yakovleva.common.Phone</class>
+        <class>com.getjavajob.training.yakovleva.common.Relations</class>
+    </persistence-unit>
+</persistence>
